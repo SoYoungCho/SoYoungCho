@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my github page.
+I am an undergraduate student majoring in data science at Kwangwoon University, Seoul.  
+I am currently an intern at the Intelligence Information Convergence lab at ETRI.  
+My interests are machine learning, data mining, natural language processing, and data analysis - especially in applying data science techniques in various domains.  
 
 <!--
 **SoYoungCho/SoYoungCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
