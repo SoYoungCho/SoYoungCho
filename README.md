@@ -3,6 +3,8 @@ I am an undergraduate student majoring in data science at Kwangwoon University, 
 I am currently an intern at the Intelligence Information Convergence lab at ETRI.  
 My interests are machine learning, data mining, natural language processing, and data analysis; especially applying data science techniques in various domains.  
 
+You can check my CV [here!](https://github.com/SoYoungCho/CV/blob/master/SoyoungCho_CV.pdf)
+
 <!--
 **SoYoungCho/SoYoungCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
