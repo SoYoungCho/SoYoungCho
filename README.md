@@ -1,4 +1,8 @@
-### Hi there 👋 Welcome to my github page.
+## Soyoung Cho
+---
+
+### :mortar_board: Education 
+
 I am an undergraduate student majoring in data science at Kwangwoon University, Seoul.  
 I am currently an intern at the Intelligence Information Convergence lab at ETRI.  
 My interests are machine learning, data mining, natural language processing, and data analysis; especially applying data science techniques in various domains.  
