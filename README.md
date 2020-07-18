@@ -1,6 +1,4 @@
 ## Soyoung Cho
----
-
 ### :mortar_board: Education 
 
 I am an undergraduate student majoring in data science at Kwangwoon University, Seoul.  
