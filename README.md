@@ -1,7 +1,8 @@
 ## Soyoung Cho
 ### :mortar_board: Education 
+- Undergraduate Student in School of Data Science, Kwangwoon University (2017 ~ 2021(Expected)
 
-I am an undergraduate student majoring in data science at Kwangwoon University, Seoul.  
+### Internships
 I am currently an intern at the Intelligence Information Convergence lab at ETRI.  
 My interests are machine learning, data mining, natural language processing, and data analysis; especially applying data science techniques in various domains.  
 
