@@ -1,4 +1,10 @@
 ## Soyoung Cho
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoYoungCho)](https://hits.seeyoufarm.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/wazoskee)](https://blog.naver.com/wazoskee)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/soyoung.cho.543/)](https://www.facebook.com/soyoung.cho.543/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sophiacho525@gmail.com)](mailto:sophiacho525@gmail.com)
+	
 ### :mortar_board: Education 
 - Undergraduate Student in School of Data Science, Kwangwoon University (2017.03 ~ 2021.02 (Expected))
 
