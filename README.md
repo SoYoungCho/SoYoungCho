@@ -8,9 +8,14 @@
 ### :mortar_board: Education 
 - Undergraduate Student in School of Data Science, Kwangwoon University (2017.03 ~ 2021.02 (Expected))
 
-### Internships
-I am currently an intern at the Intelligence Information Convergence lab at ETRI.  
-My interests are machine learning, data mining, natural language processing, and data analysis; especially applying data science techniques in various domains.  
+### 🔭 Internships
+- Intern at the Intelligence Information Convergence lab at ETRI (2020.07 ~ 2020.08))
+
+### Interests
+- machine learning
+- data mining
+- natural language processing
+- data analysis (EDA)
 
 You can check my CV [here!](https://github.com/SoYoungCho/CV/blob/master/SoyoungCho_CV.pdf)
 
