@@ -6,12 +6,12 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sophiacho525@gmail.com)](mailto:sophiacho525@gmail.com)
 	
 ### :mortar_board: Education 
-- Undergraduate Student in School of Data Science, Kwangwoon University (2017.03 ~ 2021.02 (Expected))
+- Undergraduate Student in School of Data Science, Kwangwoon University ```2017.03 ~ 2021.02 (Expected)```
 
 ### 🔭 Internships
-- Intern at the Intelligence Information Convergence lab at ETRI (2020.07 ~ 2020.08))
+- Summer Research Intern at the Intelligence Information Convergence lab at ETRI ```2020.07 ~ 2020.08```
 
-### Interests
+### ⚡ Interests
 - machine learning
 - data mining
 - natural language processing
