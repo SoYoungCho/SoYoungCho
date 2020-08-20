@@ -4,6 +4,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/wazoskee)](https://blog.naver.com/wazoskee)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/soyoung.cho.543/)](https://www.facebook.com/soyoung.cho.543/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sophiacho525@gmail.com)](mailto:sophiacho525@gmail.com)
+![](https://img.shields.io/badge/-Curriculum%20Vitae-red?style=flat-square&logo=Latex&logoColor=white&link=https://github.com/SoYoungCho/CV/blob/master/SoyoungCho_CV.pdf)
 	
 ### :mortar_board: Education 
 - Undergraduate Student in School of Data Science, Kwangwoon University ```2017.03 ~ 2021.02 (Expected)```
@@ -16,8 +17,6 @@
 - data mining
 - natural language processing
 - data analysis (EDA)
-
-You can check my CV [here!](https://github.com/SoYoungCho/CV/blob/master/SoyoungCho_CV.pdf)
 
 <!--
 **SoYoungCho/SoYoungCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
