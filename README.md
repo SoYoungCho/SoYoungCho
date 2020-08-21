@@ -10,7 +10,7 @@
 - Undergraduate Student in School of Data Science, Kwangwoon University ```2017.03 ~ 2021.02 (Expected)```
 
 ### 🔭 Internships
-- Summer Research Intern at the Intelligence Information Convergence lab at ETRI ```2020.07 ~ 2020.08```
+- Research Intern at the Intelligence Information Convergence lab at ETRI ```2020.07 ~ 2020.08```
 
 ### ⚡ Interests
 - machine learning
