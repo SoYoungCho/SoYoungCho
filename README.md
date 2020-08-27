@@ -8,6 +8,7 @@
 	
 ### :mortar_board: Education 
 - Undergraduate Student in School of Data Science, Kwangwoon University ```2017.03 ~ 2021.02 (Expected)```
+- Master Student in Complexity in Social System Lab, POSTECH  ```2021.03 ~ (Expecting)```
 
 ### 🔭 Internships
 - Research Intern at the Intelligence Information Convergence lab at ETRI ```2020.07 ~ 2020.08```
