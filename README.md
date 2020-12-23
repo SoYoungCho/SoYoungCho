@@ -5,7 +5,8 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/soyoung.cho.543/)](https://www.facebook.com/soyoung.cho.543/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sophiacho525@gmail.com)](mailto:sophiacho525@gmail.com)
 	
-### :mortar_board: Education 
+### :mortar_board: Education
+- Graduate Student in Knowledge Service Engineering, KAIST ```2021.01(Expected) ~```
 - Undergraduate Student in School of Data Science, Kwangwoon University ```2017.03 ~ 2021.02 (Expected)```
 
 ### 🔭 Internships
