@@ -13,11 +13,10 @@
 - Research Intern at the Intelligence Information Convergence lab at ETRI ```2020.07 ~ 2020.08```
 
 ### ⚡ Interests
-- machine learning
+- data analysis (EDA)
 - data mining
 - natural language processing
-- data analysis (EDA)
-- marketing
+- machine learning for AdTech and marketing
 - data consulting
 
 #### Check out my CV [HERE](https://github.com/SoYoungCho/CV/blob/master/Soyoung_Cho_CV.pdf)
