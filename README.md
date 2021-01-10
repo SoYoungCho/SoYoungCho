@@ -16,7 +16,6 @@
 - data analysis (EDA)
 - data mining
 - natural language processing
-- machine learning for AdTech and marketing
 - data consulting
 
 #### Check out my CV [HERE](https://github.com/SoYoungCho/CV/blob/master/Soyoung_Cho_CV.pdf)
