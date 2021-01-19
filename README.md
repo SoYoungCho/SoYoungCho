@@ -6,7 +6,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sophiacho525@gmail.com)](mailto:sophiacho525@gmail.com)
 	
 ### :mortar_board: Education
-- M.S in Knowledge Service Engineering, KAIST ```2021.01(Expected) ~```
+- M.S in Knowledge Service Engineering, KAIST ```2021.01 ~```
+  - Knowledge Structure, Knowledge Graph, Information Retrieval
 - B.S in School of Data Science, Kwangwoon University ```2017.03 ~ 2021.02 (Expected)```
 
 ### 🔭 Internships
