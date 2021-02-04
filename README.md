@@ -3,7 +3,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoYoungCho)](https://hits.seeyoufarm.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/wazoskee)](https://blog.naver.com/wazoskee)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/soyoung.cho.543/)](https://www.facebook.com/soyoung.cho.543/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sophiacho525@gmail.com)](mailto:sophiacho525@gmail.com)
 	
 ### :mortar_board: Education
 - M.S in Knowledge Service Engineering, KAIST `2021.01 ~`
@@ -20,6 +19,7 @@
 - data consulting
 
 #### Check out my CV [HERE](https://github.com/SoYoungCho/CV/blob/master/Soyoung_Cho_CV.pdf)
+#### Contact 📫 
 
 <!--
 **SoYoungCho/SoYoungCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
