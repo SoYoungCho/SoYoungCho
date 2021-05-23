@@ -6,7 +6,7 @@
 	
 ### :mortar_board: Education
 - M.S in Knowledge Service Engineering, KAIST `2021.01 ~`
-- B.S in School of Data Science, Kwangwoon University `2017.03 ~ 2021.02 (Expected)`
+- B.S in School of Data Science, Kwangwoon University `2017.03 ~ 2021.02`
 
 ### 🔭 Internships
 - Research Intern at the Intelligence Information Convergence lab at ETRI ```2020.07 ~ 2020.08```
