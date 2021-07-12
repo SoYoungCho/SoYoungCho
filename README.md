@@ -9,6 +9,7 @@
 - B.S in School of Data Science, Kwangwoon University `2017.03 ~ 2021.02`
 
 ### 🔭 Internships
+- Product Management Intern at TUNiB ```2021.07 ~ ```
 - Research Intern at the Intelligence Information Convergence lab at ETRI ```2020.07 ~ 2020.08```
 
 ### ⚡ Interests
