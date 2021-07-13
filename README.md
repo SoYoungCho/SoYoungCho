@@ -19,7 +19,7 @@
 - data consulting
 
 #### Check out my CV [HERE](https://github.com/SoYoungCho/CV/blob/master/Soyoung_Cho_CV.pdf)
-#### Contact 📫 soyoung.cho@kaist.ac.kr
+#### Contact 📫 soyoung.cho@kaist.ac.kr or sophia.ai@tunib.ai
 
 <!--
 **SoYoungCho/SoYoungCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
