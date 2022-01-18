@@ -6,20 +6,20 @@
 <!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/wazoskee)](https://blog.naver.com/wazoskee)-->
 
 ### :mortar_board: Education
-- M.S in Knowledge Service Engineering, KAIST `2021.01 ~`
-- B.S in School of Data Science, Kwangwoon University `2017.03 ~ 2021.02`
+- Graduate work towards M.S. in Knowledge Service Engineering, KAIST `2021.01 ~ 2021.07`
+- B.S. in School of Data Science, Kwangwoon University `2017.03 ~ 2021.02`
 
-### 🔭 Internships
-- Product Management Intern at TUNiB ```2021.07 ~ ```
+### 🔭 Career
+- Full time Data Scientist at Cheil Worldwide ```2022.01```
+- Product Management Intern at TUNiB ```2021.07 ~ 2022.01```
 - Research Intern at the Intelligence Information Convergence lab at ETRI ```2020.07 ~ 2020.08```
 
 ### ⚡ Interests
 - data analysis & insights
-- natural language processing
-- data consulting
+- deep learning
 
 #### Check out my CV [HERE](https://github.com/SoYoungCho/CV/blob/master/Soyoung_Cho_CV.pdf)
-#### Contact 📫 soyoung.cho@kaist.ac.kr or sophia.ai@tunib.ai
+#### Contact 📫 wazoskee@naver.com
 
 <!--
 **SoYoungCho/SoYoungCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
