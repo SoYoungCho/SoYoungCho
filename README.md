@@ -5,14 +5,14 @@
 
 <!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/wazoskee)](https://blog.naver.com/wazoskee)-->
 
-### :mortar_board: Education
-- Graduate work towards M.S. in Knowledge Service Engineering, KAIST `2021.01 ~ 2021.07`
-- B.S. in School of Data Science, Kwangwoon University `2017.03 ~ 2021.02`
-
 ### 🔭 Career
 - Data Scientist at Cheil Worldwide (Full-time job) ```2022.01 ~```
 - Product Management Intern at TUNiB ```2021.07 ~ 2022.01```
 - Research Intern at the Intelligence Information Convergence lab at ETRI ```2020.07 ~ 2020.08```
+
+### :mortar_board: Education
+- Graduate work towards M.S. in Knowledge Service Engineering, KAIST `2021.01 ~ 2021.07`
+- B.S. in School of Data Science, Kwangwoon University `2017.03 ~ 2021.02`
 
 ### ⚡ Interests
 - data analysis & insights
