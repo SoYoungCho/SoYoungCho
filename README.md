@@ -6,7 +6,7 @@
 <!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/wazoskee)](https://blog.naver.com/wazoskee)-->
 
 ### 🔭 Career
-- Data Scientist at Cheil Worldwide (Full-time job) ```2022.01 ~```
+- Account Planner at Cheil Worldwide (Full-time job) ```2022.01 ~```
 - Product Management Intern at TUNiB ```2021.07 ~ 2022.01```
 - Research Intern at the Intelligence Information Convergence lab at ETRI ```2020.07 ~ 2020.08```
 
