@@ -6,7 +6,8 @@
 <!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/wazoskee)](https://blog.naver.com/wazoskee)-->
 
 ### 🔭 Career
-- Account Planner at Cheil Worldwide (Full-time job) ```2022.01 ~```
+- Data Consultant & Strategy PM at Cheil Worldwide (Full-time job) ```2023.01 ~```
+- Account Planner at Cheil Worldwide (Full-time job) ```2022.01 ~ 2022.12```
 - Product Management Intern at TUNiB ```2021.07 ~ 2022.01```
 - Research Intern at the Intelligence Information Convergence lab at ETRI ```2020.07 ~ 2020.08```
 
@@ -15,11 +16,10 @@
 - B.S. in School of Data Science, Kwangwoon University `2017.03 ~ 2021.02`
 
 ### ⚡ Interests
-- data analysis & insights
-- deep learning
+- marketing data analysis & insights
+- customer analysis
 
-#### Check out my CV [HERE](https://github.com/SoYoungCho/CV/blob/master/Soyoung_Cho_CV.pdf)
-#### Contact 📫 wazoskee@naver.com
+#### Contact 📫 sophiacho525@gmail.com
 
 <!--
 **SoYoungCho/SoYoungCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
