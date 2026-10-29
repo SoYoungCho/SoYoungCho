@@ -1,7 +1,7 @@
 ## Soyoung Cho 👩🏻‍💻
 
 ### 🔭 Career
-- Data Consultant & Strategy PM at Cheil Worldwide (Full-time job) ```2023.01 ~```
+- Data & AI Strategy PM at Cheil Worldwide (Full-time job) ```2023.01 ~```
 - Account Planner at Cheil Worldwide (Full-time job) ```2022.01 ~ 2022.12```
 - Product Management Intern at TUNiB ```2021.07 ~ 2022.01```
 - Research Intern at the Intelligence Information Convergence lab at ETRI ```2020.07 ~ 2020.08```
